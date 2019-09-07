@@ -1,0 +1,12 @@
+DOSBox version 0.74
+Copyright 2002-2010 DOSBox Team, published under GNU GPL.
+---
+CONFIG:Loading primary settings from config file C:\TURBOC3\dosbox-2.0.conf
+Memory sizes above 31 MB are NOT recommended.
+Stick with the default values unless you are absolutely certain.
+MIDI:Opened device:win32
+MAPPER: Loading mapper settings from C:\TURBOC3\mapper-2.0.map
+Failed to create hardware surface.
+Restarting video subsystem with windib enabled.
+Exit to error: Could not set fullscreen video mode 1024x768-32: DirectDraw2::SetCooperativeLevel: Exclusive mode was already set
+
